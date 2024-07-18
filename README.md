@@ -13,3 +13,9 @@ e.g.) train/input<br/>
 
 # Test 
 You can test using Test.py
+
+# Pretrained Model
+We will update soon. 
+
+# Reference 
+We will update soon. 
