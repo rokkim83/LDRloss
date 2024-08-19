@@ -22,7 +22,11 @@ e.g.) train/input<br/>
 You can test using Test.py
 
 # Pretrained Model
-We will update soon. 
+Two pretrained model files are uploaded to models_pretrained folder. 
+ 1. train env.: 1000epoch, alpha 20
+ 2. train env.: 500epoch, alpha 10<br/>
+ 
+You may use pretrained model file by copying "final_model.pth" to models folder.
 
 # Citation 
 We will update soon. 
